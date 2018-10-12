@@ -12,7 +12,7 @@ Einmalig:
 ```
 virtualenv --python=$(which python3.5) virtualenv
 . virtualenv/bin/activate
-pip install jupyter
+pip install jupyter pandas matplotlib
 ```
 
 Jedes Mal:
